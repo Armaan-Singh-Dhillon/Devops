@@ -21,3 +21,23 @@ now to login through the terminal of host machine as
 ```bash
 <username>@<name-of-remote>
 ```
+
+## Basics Linux
+
+### symbol meaning in CLI
+
+```bash
+armaan@WhiteOrchard:~$
+    |          |
+username  computername
+    ~ means => home/user
+    $ means => Regular User
+    # means => Root User
+```
+
+### Remove Command
+
+```bash
+rm <filename> -> used to delete file
+rm -r <directony_name> -> used to delete folder and all files in it
+```
